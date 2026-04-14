@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --navy-900: #0a1628;
+  --navy-800: #0f2044;
+  --navy-700: #162d5e;
+  --navy-600: #1e3a7a;
+  --navy-500: #2952a3;
+  --accent: #4f8ef7;
+  --accent-light: #93bbfd;
+  --gold: #f59e0b;
+  --bg: #f0f4fb;
+  --surface: #ffffff;
+  --border: #e2e8f4;
+  --text-primary: #0f172a;
+  --text-secondary: #64748b;
+  --text-muted: #94a3b8;
+  --success: #16a34a;
+  --warning: #d97706;
+  --danger: #dc2626;
+  --sidebar-w: 260px;
+  --radius: 12px;
+  --shadow: 0 1px 3px rgba(0,0,0,0.07), 0 4px 16px rgba(0,0,0,0.06);
+  --shadow-lg: 0 8px 32px rgba(15,32,68,0.15);
+}
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background: var(--bg);
+  color: var(--text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,h2,h3,h4,h5 { font-family: 'Space Grotesk', sans-serif; line-height: 1.2; }
+
+a { text-decoration: none; color: inherit; }
+
+button { cursor: pointer; font-family: 'DM Sans', sans-serif; }
+
+input, textarea, select {
+  font-family: 'DM Sans', sans-serif;
+  outline: none;
+}
+
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 99px; }

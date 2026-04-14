@@ -1,0 +1,364 @@
+text,department
+wifi not working,IT
+internet connection issue,IT
+computer not turning on,IT
+lab system crashed,IT
+software installation required,IT
+printer not working,IT
+network access denied,IT
+email not working,IT
+system running slow,IT
+projector not functioning in lab,IT
+college website down,IT
+online portal login issue,IT
+camera not working in classroom,IT
+smart board not responding,IT
+college app not working,IT
+LAN cable disconnected,IT
+USB ports not working in lab,IT
+antivirus not installed,IT
+server downtime issue,IT
+screen flickering in lab,IT
+keyboard not working in computer lab,IT
+mouse not responding in lab,IT
+desktop computer freezing,IT
+internet speed very slow,IT
+cannot access college email,IT
+VPN not connecting,IT
+software license expired,IT
+computer lab booking system down,IT
+online exam portal not loading,IT
+headphones not working in language lab,IT
+router not working in department,IT
+network printer offline,IT
+computer makes loud noise,IT
+monitor not displaying properly,IT
+hard disk issue in lab system,IT
+RAM issue in lab computer,IT
+browser not opening on lab system,IT
+zoom app not working,IT
+Google Meet not connecting,IT
+lab computer login not working,IT
+wifi password not working,IT
+internet disconnected in hostel block,IT
+lab system blue screen error,IT
+computer restarting automatically,IT
+software update failing on lab PC,IT
+projector remote not working,IT
+college portal password reset not working,IT
+network drive not accessible,IT
+lab printer showing offline,IT
+campus network very slow during exams,IT
+smart board touch not responding,IT
+computer lab AC making noise but system overheats,IT
+display driver issue in lab,IT
+lab headset microphone not working,IT
+online assignment portal keeps logging out,IT
+video conferencing audio issue in lab,IT
+campus wifi not reaching hostel,IT
+lab system date and time wrong,IT
+cannot install required software in lab,IT
+graphics card issue in design lab,IT
+leave request not approved,HR
+attendance not updated in portal,HR
+certificate request pending,HR
+student ID card not issued,HR
+staff leave balance incorrect,HR
+internship approval pending,HR
+bonafide certificate request pending,HR
+employee details update required,HR
+payslip not generated,HR
+transfer request pending,HR
+job posting not updated,HR
+recruitment process delayed,HR
+staff grievance not addressed,HR
+performance review pending,HR
+HR portal not accessible,HR
+no offer letter received,HR
+joining formalities incomplete,HR
+experience certificate not issued,HR
+relieving letter not provided,HR
+medical leave not sanctioned,HR
+casual leave application rejected,HR
+earned leave encashment pending,HR
+maternity leave not processed,HR
+dress code policy unclear,HR
+employee ID card not issued,HR
+promotion letter not received,HR
+increment not reflected in salary,HR
+new employee induction not scheduled,HR
+staff training not organized,HR
+HR helpdesk not responding,HR
+work from home approval pending,HR
+contract renewal not processed,HR
+background verification pending,HR
+staff accommodation request pending,HR
+bonafide certificate for employee pending,HR
+no dues certificate not issued by HR,HR
+internship completion certificate not given,HR
+employee attendance mismatch,HR
+overtime payment not processed,HR
+staff health insurance not activated,HR
+leave without pay incorrectly marked,HR
+attendance biometric not working for staff,HR
+staff ID renewal pending,HR
+deputation order not issued,HR
+faculty recruitment notification delayed,HR
+teaching assistant appointment letter pending,HR
+research associate contract not renewed,HR
+guest faculty payment not processed,HR
+fellowship amount not disbursed,HR
+staff provident fund issue,HR
+gratuity calculation not done,HR
+salary not credited this month,Finance
+fee payment showing error,Finance
+scholarship amount not received,Finance
+refund not processed for hostel fees,Finance
+bank account details update required,Finance
+payment receipt not generated,Finance
+duplicate fee charged,Finance
+invoice not available for payment,Finance
+financial aid not processed,Finance
+exam fee not updated,Finance
+tuition fee receipt missing,Finance
+fine amount incorrect,Finance
+stipend not received,Finance
+budget approval pending,Finance
+account statement not available,Finance
+mess fee deducted twice,Finance
+scholarship disbursement delayed,Finance
+transport fee refund pending,Finance
+book deposit not refunded,Finance
+demand draft not accepted,Finance
+online fee payment gateway error,Finance
+challan not generated for fee,Finance
+fee structure not updated on portal,Finance
+convocation fee not accepted,Finance
+library fine overcharged,Finance
+sports fee receipt not issued,Finance
+laboratory fee charged incorrectly,Finance
+security deposit not returned,Finance
+registration fee payment failed,Finance
+fee concession not applied,Finance
+late fee charged incorrectly,Finance
+hostel caution deposit not refunded,Finance
+scholarship renewal pending,Finance
+fee installment option not available,Finance
+bank transfer for fees not reflecting,Finance
+DD payment not updated in portal,Finance
+examination fee paid but not confirmed,Finance
+merit scholarship not credited,Finance
+sports scholarship disbursement delayed,Finance
+minority scholarship not processed,Finance
+SC ST scholarship amount pending,Finance
+OBC scholarship not received,Finance
+national scholarship portal issue,Finance
+fee waiver request not processed,Finance
+income certificate based concession not applied,Finance
+mess fee for vacation period charged,Finance
+alumni donation receipt not issued,Finance
+research grant disbursement delayed,Finance
+project fund utilization certificate pending,Finance
+travel reimbursement not processed,Finance
+medical reimbursement claim pending,Finance
+classroom fan not working,Maintenance
+water leakage in corridor,Maintenance
+electricity issue in block,Maintenance
+broken bench in classroom,Maintenance
+toilet not working in building,Maintenance
+generator not starting,Maintenance
+AC not working in lab,Maintenance
+door lock broken in classroom,Maintenance
+light not working in corridor,Maintenance
+water cooler not functioning,Maintenance
+lift not working in building,Maintenance
+roof leaking in department,Maintenance
+paint peeling off walls,Maintenance
+fire extinguisher not installed,Maintenance
+cleaning not done in block,Maintenance
+pipe burst in washroom,Maintenance
+drainage blocked near hostel,Maintenance
+window glass broken in classroom,Maintenance
+chairs damaged in seminar hall,Maintenance
+dustbins not emptied,Maintenance
+switchboard sparking in classroom,Maintenance
+water pump not working,Maintenance
+street light not working on campus,Maintenance
+road pothole near academic block,Maintenance
+ceiling plaster falling in classroom,Maintenance
+mosquito menace due to stagnant water,Maintenance
+garden not maintained on campus,Maintenance
+canteen building needs repair,Maintenance
+sports ground maintenance required,Maintenance
+auditorium AC not working,Maintenance
+transformer issue on campus,Maintenance
+water tank cleaning not done,Maintenance
+sewage overflow near hostel,Maintenance
+broken steps in staircase,Maintenance
+compound wall damaged,Maintenance
+tubelight not working in classroom,Maintenance
+electrical wiring exposed in corridor,Maintenance
+water supply irregular in building,Maintenance
+hand wash basin broken in washroom,Maintenance
+floor tiles broken in corridor,Maintenance
+door hinge broken in lab,Maintenance
+water motor not working,Maintenance
+exhaust fan not working in washroom,Maintenance
+classroom desks are broken,Maintenance
+blackboard broken in classroom,Maintenance
+whiteboard marker holder missing,Maintenance
+stage in auditorium needs repair,Maintenance
+sports equipment storage broken,Maintenance
+basketball court needs repair,Maintenance
+cricket pitch needs maintenance,Maintenance
+admission process issue,Administration
+college event not announced,Administration
+timetable not updated,Administration
+official letter not issued,Administration
+college ID not generated,Administration
+duty leave not approved,Administration
+college bus pass issue,Administration
+scholarship form not available,Administration
+document verification pending,Administration
+migration certificate not issued,Administration
+college notice not posted,Administration
+permission letter not issued,Administration
+college calendar not updated,Administration
+application form not available,Administration
+official stamp not provided,Administration
+NOC letter not issued,Administration
+affiliation certificate pending,Administration
+college prospectus not available,Administration
+anti ragging form not accepted,Administration
+sports participation certificate not issued,Administration
+college bus route changed without notice,Administration
+bus timing issue,Administration
+college gate pass not issued,Administration
+student conduct certificate not issued,Administration
+college leaving certificate pending,Administration
+convocation ceremony details not shared,Administration
+college fest permission not granted,Administration
+cultural committee not formed,Administration
+student council election not announced,Administration
+sports meet schedule not published,Administration
+guest lecture not organized,Administration
+industry visit not scheduled,Administration
+alumni meet not organized,Administration
+college ranking not updated,Administration
+TC transfer certificate not issued,Administration
+character certificate not provided,Administration
+enrollment number not generated,Administration
+hall ticket not issued for exam,Administration
+no dues certificate not generated,Administration
+original documents not returned,Administration
+college gazette notification not published,Administration
+sports day event not organized,Administration
+annual day program details not shared,Administration
+college magazine contribution not acknowledged,Administration
+NAAC documentation support not provided,Administration
+student feedback form not circulated,Administration
+grievance committee meeting not held,Administration
+campus recruitment drive not organized,Administration
+placement cell not responding,Administration
+career guidance session not scheduled,Administration
+exam schedule not published,Academics
+professor not attending class,Academics
+syllabus not uploaded on portal,Academics
+assignment submission issue,Academics
+internal marks not updated,Academics
+result not declared,Academics
+grade correction required,Academics
+study material not provided,Academics
+online class link not shared,Academics
+project guide not assigned,Academics
+lab manual not provided,Academics
+revaluation request pending,Academics
+attendance shortage issue,Academics
+course registration problem,Academics
+academic calendar not updated,Academics
+class test marks not entered,Academics
+seminar not scheduled,Academics
+library books not available,Academics
+thesis submission guideline unclear,Academics
+elective subject not allotted,Academics
+mid semester exam timetable not released,Academics
+practical exam date not announced,Academics
+project viva not scheduled,Academics
+faculty not available during office hours,Academics
+doubt clearing session not arranged,Academics
+model paper not provided before exam,Academics
+lab record submission date not announced,Academics
+answer sheet not shown after revaluation,Academics
+course completion certificate not issued,Academics
+online assignment portal not working,Academics
+reference books not in library,Academics
+journal access not provided,Academics
+research lab not accessible,Academics
+internal assessment marks disputed,Academics
+professor behavior complaint,Academics
+class not held as per timetable,Academics
+lecture notes not shared after class,Academics
+guest lecture attendance not counted,Academics
+project deadline not communicated,Academics
+group project members not assigned,Academics
+internship credit not added to result,Academics
+backlog exam date not announced,Academics
+supplementary exam schedule not shared,Academics
+academic transcript not issued,Academics
+grade sheet error,Academics
+promotion criteria not communicated,Academics
+subject change request not processed,Academics
+academic mentor not assigned,Academics
+research paper publication support not given,Academics
+lab experiment list not shared,Academics
+online proctored exam technical issue,Academics
+hostel room allotment issue,Hostel
+mess food quality poor,Hostel
+hostel warden complaint,Hostel
+hostel wifi not working,Hostel
+hostel room maintenance issue,Hostel
+hostel fee receipt not generated,Hostel
+hot water not available in hostel,Hostel
+hostel gate closed early,Hostel
+hostel common room not available,Hostel
+hostel laundry service issue,Hostel
+hostel mess timing issue,Hostel
+hostel power outage,Hostel
+hostel bed not provided,Hostel
+hostel bathroom not clean,Hostel
+hostel noise complaint,Hostel
+hostel drinking water issue,Hostel
+hostel room change request,Hostel
+hostel visitor entry denied,Hostel
+hostel mess menu not updated,Hostel
+hostel security complaint,Hostel
+hostel mattress in bad condition,Hostel
+hostel cupboard lock broken,Hostel
+hostel mess serving cold food,Hostel
+hostel common bathroom blocked,Hostel
+hostel room leakage issue,Hostel
+cockroaches in hostel mess,Hostel
+hostel night study room not available,Hostel
+hostel reading room lights not working,Hostel
+hostel gym equipment broken,Hostel
+hostel TV not working in common room,Hostel
+hostel first aid kit not available,Hostel
+hostel mess staff misbehaving,Hostel
+hostel internet disconnected,Hostel
+hostel room allotment not fair,Hostel
+hostel emergency exit blocked,Hostel
+hostel mess food quantity insufficient,Hostel
+hostel room very cold at night,Hostel
+hostel water supply irregular,Hostel
+hostel room window broken,Hostel
+hostel curfew timing issue,Hostel
+hostel mess hygiene very poor,Hostel
+hostel room fan not working,Hostel
+hostel notice board not updated,Hostel
+hostel mess closed on holiday,Hostel
+hostel room light not working,Hostel
+hostel caretaker not available,Hostel
+hostel fire safety drill not conducted,Hostel
+hostel wardrobe space insufficient,Hostel
+hostel pillow and blanket not provided,Hostel
+hostel gate pass system not working,Hostel
